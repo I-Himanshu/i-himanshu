@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="i-himanshu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-himanshu" alt="i-himanshu" /></a> </p>
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=i-himanshu" alt="i-himanshu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/himanshu5403" target="blank"><img src="https://img.shields.io/twitter/follow/himanshu5403?logo=twitter&style=for-the-badge" alt="himanshu5403" /></a> </p>
+<p align="left"> <a href="https://twitter.com/me_is_himanshu" target="blank"><img src="https://img.shields.io/twitter/follow/me_is_himanshu?logo=twitter&style=for-the-badge" alt="himanshu5403" /></a> </p>
 
 - 🌱 I’m currently learning **React and Tailwind**
 
